@@ -1,3 +1,1 @@
-NUTRITION APP
-
-https://nutrition-doctor.streamlit.app
+Visit https://nutrition-doctor.streamlit.app
